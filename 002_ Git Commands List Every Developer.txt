@@ -1,0 +1,23 @@
+002_ Git Commands List Every Developer
+
+- git status is files
+
+- set git name and email on gitbash
+
+  git config --global user.name "Hello"
+
+  git config --global user.name "hello@gmail.com"
+  
+  git log == showing the commits have done.
+
+  git clean -f = new file has deleted.
+
+  git clean -fd = new folder has deleted.
+
+  git checkout [commit key] = get previous code [commit key get from git log.]
+
+  git branch = showing total branch
+
+  git branch [name] = creating branch
+
+  git checkout [name] = switching branch

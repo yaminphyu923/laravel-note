@@ -1,0 +1,9 @@
+Change private from public git 
+-setting/Danger Zone/Change visibility
+
+Sharing private repository
+
+
+Cannot download git clone with ssh
+-Profile/settings/developer settings/Personal Access Token/Generate new token/Write down as you like on Note/
+All check

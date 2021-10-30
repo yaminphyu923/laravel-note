@@ -1,0 +1,18 @@
+
+- git checkout -b hello = Create branch hello and change hello branch simultaneously.
+
+
+Add 2 project
+- github/pull requests/New Pull Request/Choose From Project and To Project to merge
+
+
+if Ok, click create pull request -> press confirm
+
+
+- git pull origin hello = Update git commit from online in local project, hello is current branch
+
+- git log --oneline = show the commits as only one line  
+
+- git log --oneline -n 3 = show the first 3 lines commit
+
+- git reset --hard [code] = delete before [code] 

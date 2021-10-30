@@ -1,0 +1,18 @@
+- git remote -v = see connecting repositry with git
+
+- ssh-keygen = for connect git and computer
+
+- cat ~/.ssh/id_rsa.pub = 1. retrieve the public key of computer 
+			  2. copy the key
+			  3. click setting of git 
+			  4. Deploy Key
+			  5. write as you like in title box and paste the key in key box
+			  6. check the "Allow write access" & press Add key Button
+
+- git pull origin dev = get the update code from online into project
+
+- git branch -D = Delete the whole branch
+
+- git branch -D dev = Delete the "dev" branch
+
+- git fetch origin = See the code & branch in git from terminal
